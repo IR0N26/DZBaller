@@ -24,7 +24,7 @@ import xobot.script.wrappers.interactive.GameObject;
 import xobot.script.wrappers.interactive.Item;
 import xobot.script.wrappers.interactive.NPC;
 
-@Manifest(authors = { "IR0N" }, name = "IR0N's DZBaller", description = "TEST   Makes cannonballs at ::DZ. Start with only the mould in your inventory at ::DZ.")
+@Manifest(authors = { "IR0N" }, name = "IR0N's DZBaller", description = "Makes cannonballs at ::DZ. Start with only the mould in your inventory at ::DZ.")
     public class DZBaller extends ActiveScript implements PaintListener {
 
         private Timer t = null;
